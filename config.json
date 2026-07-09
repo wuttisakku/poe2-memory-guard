@@ -1,0 +1,8 @@
+{
+  "EnableAutoUpdate": true,
+  "EnableRAMMap": false,
+  "CheckEverySeconds": 15,
+  "TrimWhenWorkingSetMB": 8192,
+  "TrimCooldownMinutes": 2,
+  "PurgeStandbyWhenMemoryUsedPercent": 90
+}
