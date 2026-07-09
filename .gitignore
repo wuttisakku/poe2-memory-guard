@@ -1,0 +1,6 @@
+# RAMMap is downloaded from Microsoft automatically on first launch.
+/Tools/RAMMap/
+/RAMMap.zip
+
+# Local-only contributor notes.
+/CONTRIBUTING.md
